@@ -1,0 +1,4 @@
+/target
+.zsh_history
+/src/.zsh_history
+/src/;
